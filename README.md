@@ -1,1 +1,2 @@
-# caffe_windows-
+# caffe_windows
+搜罗了windows_caffe安装需要的软件包
